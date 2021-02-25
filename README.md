@@ -8,11 +8,8 @@ Repo root
     ├── configuration
     │   ├── policyFiles
     │   └── joltFiles
-    ├── services
-    ├── security
-    ├── controllers
-    ├── model
-    └── view
+    ├── ..
+    └── ..
 ```
 
 and
@@ -28,9 +25,6 @@ Repo root
                     ├── Configuration
                     │   ├── policyFiles
                     │   └── joltFiles
-                    ├── services
-                    ├── security
-                    ├── model
-                    ├── controllers
-                    └── view
+                    ├── ..
+                    └── ..
 ```****
