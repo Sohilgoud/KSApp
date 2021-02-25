@@ -10,7 +10,7 @@ Repo root
     │   └── joltFiles
     ├── .. 
     └── ..   <- [Other folders/files]
-```
+
 
 and
 
@@ -27,4 +27,4 @@ Repo root
                     │   └── joltFiles
                     ├── .. 
                     └── ..   <- [Other folders/files]
-```****
+
