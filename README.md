@@ -8,8 +8,8 @@ Repo root
     ├── configuration
     │   ├── policyFiles
     │   └── joltFiles
-    ├── ..
-    └── ..
+    ├── .. 
+    └── ..   <- [Other folders/files]
 ```
 
 and
@@ -22,9 +22,9 @@ Repo root
         └── to
             └── Microservice Project
                 └── Project
-                    ├── Configuration
+                    ├── configuration
                     │   ├── policyFiles
                     │   └── joltFiles
-                    ├── ..
-                    └── ..
+                    ├── .. 
+                    └── ..   <- [Other folders/files]
 ```****
